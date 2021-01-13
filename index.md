@@ -10,5 +10,5 @@ I have some graduations!
 ### Contact me
 If you have not visited my [GitHub profile](https://github.com/dantebarross), access it through the link below. I'll also leave my [LinkedIn](https://www.linkedin.com/in/dantebarross/) link to chat!
 
-[https://github.com/dantebarross](https://github.com/dantebarross)
-[https://www.linkedin.com/in/dantebarross/](https://www.linkedin.com/in/dantebarross/)
+<https://github.com/dantebarross>
+<https://www.linkedin.com/in/dantebarross/>
