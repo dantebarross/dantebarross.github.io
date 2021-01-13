@@ -7,8 +7,8 @@ I have some graduations!
 2. An education degree (Licenciatura) in Pedagogy;
 3. I am in my last year of Literature, Linguistics and Portuguese at the University of São Paulo, with bachelor's degree and education degree (Licenciatura).
 
-### Formas de contato
-Caso não tenha visitado meu [perfil no GitHub](https://github.com/dantebarross), você pode acessá-lo através do link abaixo. Também deixarei o link do meu [LinkedIn](https://www.linkedin.com/in/dantebarross/) para conversarmos!
+### Contact me
+If you have not visited my [GitHub profile](https://github.com/dantebarross), access it through the link below. I'll also leave my [LinkedIn](https://www.linkedin.com/in/dantebarross/) link to chat!
 
 https://github.com/dantebarross
 https://www.linkedin.com/in/dantebarross/
