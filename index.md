@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Presentation!
+Hi, my name is [Danilo Barros](https://github.com/dantebarross) and in this page I'll be talking a little about my knowledge trajectory.
 
-You can use the [editor on GitHub](https://github.com/dantebarross/dantebarross.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Graduations
+I have some graduations!
+1. A bachelor's degree in Social Communication with an emphasis on Radio, TV and Internet (Faculdades Integradas Campos Salles);
+2. An education degree (Licenciatura) in Pedagogy;
+3. I am in my last year of Literature, Linguistics and Portuguese at the University of São Paulo, with bachelor's degree and education degree (Licenciatura).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Formas de contato
+Caso não tenha visitado meu [perfil no GitHub](https://github.com/dantebarross), você pode acessá-lo através do link abaixo. Também deixarei o link do meu [LinkedIn](https://www.linkedin.com/in/dantebarross/) para conversarmos!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dantebarross/dantebarross.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/dantebarross
+https://www.linkedin.com/in/dantebarross/
