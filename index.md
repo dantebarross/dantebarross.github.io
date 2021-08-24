@@ -1,5 +1,5 @@
-## Presentation
-Hi, my name is [Danilo Barros](https://github.com/dantebarross) and in this page I'll be talking a little about my knowledge trajectory.
+## Hi!
+My name is [Danilo Barros](https://github.com/dantebarross) and in this page I'll be talking a little about my knowledge trajectory.
 
 ### Graduations
 I have some graduations!
@@ -13,9 +13,9 @@ I have some graduations!
 - Machine Learning and Deep Learning;
 - Whenever possible, I use Python and its libraries.
 
+You can acess my latest project in GitHub, or deployed, in the links above:
+* https://github.com/dantebarross/quinto-andar-analise
+* https://analise-quinto-andar.herokuapp.com/
+
 ### Contact me
 If you have not visited my [GitHub profile](https://github.com/dantebarross), access it through the link below. I'll also leave my [LinkedIn](https://www.linkedin.com/in/dantebarross/) link to chat!
-
-<https://github.com/dantebarross>
-
-<https://www.linkedin.com/in/dantebarross/>
