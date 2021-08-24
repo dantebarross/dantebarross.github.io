@@ -13,8 +13,8 @@ My name is [Danilo Barros](https://github.com/dantebarross) and in this page I'l
 - Whenever possible, I use Python and its libraries.
 
 You can acess my latest project in GitHub, or deployed, in the links above:
-* https://github.com/dantebarross/quinto-andar-analise
-* https://analise-quinto-andar.herokuapp.com/
+* <https://github.com/dantebarross/quinto-andar-analise>
+* <https://analise-quinto-andar.herokuapp.com/>
 
 ### Contact me
 If you have not visited my [GitHub profile](https://github.com/dantebarross), access it through the link below. I'll also leave my [LinkedIn](https://www.linkedin.com/in/dantebarross/) link to chat!
