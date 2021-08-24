@@ -1,4 +1,3 @@
-## Hi!
 My name is [Danilo Barros](https://github.com/dantebarross) and in this page I'll be talking a little about my knowledge trajectory.
 
 ### I have some graduations!
